@@ -1,4 +1,4 @@
-package com.proiect.migration;
+package com.proiect.migration.domain;
 
 
 import java.util.Date;

@@ -1,6 +1,7 @@
-package com.proiect.migration;
+package com.proiect.migration.domain;
 
-import java.util.Date;
+import com.proiect.migration.domain.Movie;
+
 import java.util.List;
 
 public class Migration {

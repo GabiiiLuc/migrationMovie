@@ -1,7 +1,6 @@
 
 package com.proiect.migration;
 
-import com.proiect.migration.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

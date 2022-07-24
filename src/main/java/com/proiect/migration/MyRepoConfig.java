@@ -1,5 +1,7 @@
 package com.proiect.migration;
 
+import com.proiect.migration.domain.Movie;
+import com.proiect.migration.repository.MovieRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

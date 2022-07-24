@@ -1,5 +1,8 @@
-package com.proiect.migration;
+package com.proiect.migration.controller;
 
+import com.proiect.migration.domain.Migration;
+import com.proiect.migration.domain.Movie;
+import com.proiect.migration.service.MigrationService;
 import org.springframework.web.bind.annotation.*;
 
 

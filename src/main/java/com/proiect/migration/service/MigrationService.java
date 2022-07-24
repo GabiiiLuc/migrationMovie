@@ -1,5 +1,8 @@
-package com.proiect.migration;
+package com.proiect.migration.service;
 
+
+import com.proiect.migration.domain.Migration;
+import com.proiect.migration.repository.MigrationRepository;
 
 public class MigrationService {
     private MigrationRepository migrationRepository;
