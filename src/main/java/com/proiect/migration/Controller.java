@@ -51,6 +51,7 @@ public class Controller {
             result.append(movie.getId());
         result.append("]");
         result.append("\nfail reason:").append(migration.getFailReason());
+
         return result.toString();
     }
 }
